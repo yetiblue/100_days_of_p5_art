@@ -1,4 +1,4 @@
-# 100_days_of_p5_art
+# 100_days_of_p5_art NYU ITP/IMA
 Creating 100 pieces of generative art with p5.js for design class | September - December 2021
 
 "Pick something and stick with it for 100 days" 
