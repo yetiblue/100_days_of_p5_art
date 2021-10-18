@@ -7,4 +7,6 @@ Creating 100 pieces of generative art with p5.js for design class | September - 
 
 "Much better to go for it, than to spend all of your time planning something out and never actually creating anything"
 
+Code's pretty messy for a lot of sketches, no time to really refactor 😅
+
 Documentation for each day can be found at: https://medium.com/knowledge-foundation
