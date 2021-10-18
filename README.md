@@ -10,3 +10,5 @@ Creating 100 pieces of generative art with p5.js for design class | September - 
 Code's pretty messy for a lot of sketches, no time to really refactor 😅
 
 Documentation for each day can be found at: https://medium.com/knowledge-foundation
+
+Instagram Portfolio page: https://www.instagram.com/100daysofgenart/
