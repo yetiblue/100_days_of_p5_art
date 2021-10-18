@@ -1,0 +1,26 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+img{
+   
+   background-size: contain;
+   background-repeat: no-repeat;
+   filter: blur(2px);
+  -webkit-filter: blur(2px);
+  
+}
+canvas {
+  display: inline;
+  position: absolute;
+  left: -100px;
+  top: -200px;
+  z-index: 2;
+  backdrop-filter: blur(2px);
+backdrop-filter: brightness(110%);
+
+ 
+
+
+
+}
